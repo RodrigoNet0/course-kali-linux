@@ -1,6 +1,7 @@
 # Video introdutório
 
 -  https://www.youtube.com/watch?v=Ka8V-9YmSjE
+-  https://www.bing.com/videos/search?q=como+usar+kali+linux&view=detail&mid=B8411A0D295A1C86EFEFB8411A0D295A1C86EFEF&FORM=VIRE&PC=U531
 <br><br>
 
 Kali Linux é uma distribuição de segurança do Linux derivada do Debian e projetada especificamente para análise forense de computadores e testes de penetração avançados1. Aqui estão algumas informações sobre como usar o Kali Linux e suas vantagens em segurança cibernética:
