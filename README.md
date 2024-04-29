@@ -1,9 +1,21 @@
 # Video introdutório
 
+<br>
+
 -  https://www.youtube.com/watch?v=Ka8V-9YmSjE
 -  https://www.bing.com/videos/search?q=como+usar+kali+linux&view=detail&mid=B8411A0D295A1C86EFEFB8411A0D295A1C86EFEF&FORM=VIRE&PC=U531
 <br><br>
 
+# Curso Completo (Introdutório)
+<br>
+
+
+
+-  https://www.youtube.com/watch?v=zYAyFoSV5co&list=PL98zSnGG7z_yrtADLX7oViFXHbRYGnClw
+
+
+
+<br>
 Kali Linux é uma distribuição de segurança do Linux derivada do Debian e projetada especificamente para análise forense de computadores e testes de penetração avançados1. Aqui estão algumas informações sobre como usar o Kali Linux e suas vantagens em segurança cibernética:
 
 Como usar o Kali Linux
@@ -18,3 +30,6 @@ Ferramentas de Teste de Penetração: O Kali Linux possui mais de 600 ferramenta
 Otimizado para Reduzir o Trabalho: Você pode instalar ferramentas de teste de penetração em qualquer Linux, mas terá que configurá-las manualmente. O Kali é otimizado para reduzir a quantidade de trabalho, para que um profissional possa apenas sentar e começar6.
 Personalizável: Com o uso de metapacotes, otimizados para as tarefas específicas de um profissional de segurança, e um processo de personalização ISO altamente acessível e bem documentado, é sempre fácil gerar uma versão otimizada do Kali para suas necessidades específicas6.
 Comunidade Ativa: O Kali Linux, com sua linhagem BackTrack, tem uma comunidade vibrante e ativa. Existem fóruns ativos do Kali, listagens de ferramentas do Kali, um sistema de rastreamento de bugs aberto e até sugestões de ferramentas fornecidas pela comunidade6.
+<br>
+# Autor
+Rodrigo Neto
